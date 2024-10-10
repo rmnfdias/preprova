@@ -1,0 +1,20 @@
+{
+  "name": "preprova",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev":"node --watch index.js",
+    "test": "jest --coverage"
+  },
+  "repository": {
+        "type": "git",
+    "url": "git+https://github.com/rmnfdias/preprova.git"
+  },
+  "author": "Ramon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmnfdias/preprova/issues"
+  },
+  "homepage": "https://github.com/rmnfdias/preprova#readme"
+}
